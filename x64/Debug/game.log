@@ -1,0 +1,53 @@
+﻿  collisions.cpp
+  entity.cpp
+  events.cpp
+  game_renderer.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(43,122): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(43,83): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(43,44): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(43,26): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(44,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(44,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(47,36): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(47,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(50,101): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(50,52): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(50,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(50,21): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(56,26): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(56,26): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(56,89): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(56,89): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(65,57): warning C4838: la conversion de 'int' en 'float' requiert une conversion restrictive
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(65,57): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(99,42): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(99,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(101,53): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_renderer.cpp(101,39): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  game_utils.cpp
+  main.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\main.cpp(96,25): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  math_toolbox.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\math_toolbox.cpp(12,22): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\math_toolbox.cpp(23,28): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\math_toolbox.cpp(57,21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\math_toolbox.cpp(58,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  game_engine.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\game_engine.cpp(471,61): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  mines.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(9,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(38,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(194,33): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(328,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  player.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\player.cpp(92,65): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\player.cpp(92,132): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  projectile.cpp
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\projectile.cpp(15,33): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Génération de code en cours...
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(225): warning C4715: 'FloatingMine::scoreBySize' : les chemins de contrôle ne retournent pas tous une valeur
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(244): warning C4715: 'FireballMine::scoreBySize' : les chemins de contrôle ne retournent pas tous une valeur
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(263): warning C4715: 'MagneticMine::scoreBySize' : les chemins de contrôle ne retournent pas tous une valeur
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\mines.cpp(282): warning C4715: 'MagneticFireballMine::scoreBySize' : les chemins de contrôle ne retournent pas tous une valeur
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\src\collisions.cpp(48): warning C4715: 'ColliderOverlaping' : les chemins de contrôle ne retournent pas tous une valeur
+  game.vcxproj -> F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\x64\Debug\game.exe

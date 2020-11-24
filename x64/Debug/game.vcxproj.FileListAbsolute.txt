@@ -1,0 +1,2 @@
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\x64\Debug\game.exe
+F:\Softwares\env-master\cygwin64\home\desty\cloneMinestorm\MineStorm\x64\Debug\game.pdb
