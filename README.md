@@ -105,7 +105,7 @@ _Other methods Path_
 ---
 _Main Menu_  
   
-![alt text](READ_ME_ASSETS/main_menu.png "Main Menu")
+![alt text](READ_ME_ASSETS/main_menu.PNG "Main Menu")
 
 _Game Starting_  
   
@@ -117,6 +117,6 @@ _Game Demo_
 
 _Game Over_  
   
-![alt text](READ_ME_ASSETS/game_over.png "Game Over Menu")
+![alt text](READ_ME_ASSETS/game_over.PNG "Game Over Menu")
 
 
