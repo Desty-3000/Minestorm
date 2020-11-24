@@ -35,7 +35,7 @@ Minestorm is a Shoot 'Em Up where your goal is to survive and destroy the most a
 |K     | Start cooperative  game | 
 |SPACE | Pause/Unpause game      | 
 |C     | Toggle debug view       |  
-|      
+    
 ---
 ### **Player 1 Input**
 | Key  | Action                  |   
@@ -44,8 +44,7 @@ Minestorm is a Shoot 'Em Up where your goal is to survive and destroy the most a
 |F     | Shoot                   | 
 |D     | Turn left               | 
 |G     | Turn right              |
-|E & T | Teleport to random position                         |
-|     
+|E & T | Teleport to random position                         | 
 
 ---
 ### **Player 2 Input**
@@ -56,7 +55,6 @@ Minestorm is a Shoot 'Em Up where your goal is to survive and destroy the most a
 |J     | Turn left               | 
 |L     | Turn right              |
 |U & O | Teleport to random position                         |
-|
 
 ## Gameplay
 ---
