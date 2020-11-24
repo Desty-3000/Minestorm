@@ -3,7 +3,7 @@
 >_Rayane Tadjer on november 2020_
 ## What is Minestorm ?
 
-Minestorm is a Shoot 'Em Up where your goal is to survive and destroy the most mines in a space minefield.
+Minestorm is a Shoot 'Em Up where your goal is to survive and destroy the most amount of mines in a space minefield.
 
 ### Summary
  - Compile Game
