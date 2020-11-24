@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\math_toolbox.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\entity.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_utils.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_engine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\events.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\projectile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_renderer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mines.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collisions.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{f9adaf20-2bd5-423b-8cfc-d2910532dabd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{51ccb92e-77bb-4149-9d56-8f6c7db4a473}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\math_toolbox.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\entity.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_utils.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_engine.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\events.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\projectile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_renderer.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mines.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\collisions.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
